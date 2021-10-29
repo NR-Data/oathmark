@@ -1,0 +1,3738 @@
+{
+  "catalogue": {
+    "name": "Undead  List",
+    "id": "f753-4ff4-aa42-1f65",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "186f-c0b9-b3fb-b13f",
+    "gameSystemRevision": 6,
+    "library": false,
+    "revision": 2,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Revenant King",
+        "id": "cf29-21f7-5742-928d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b514-09ea-cfe3-8bbc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Prince",
+        "id": "23f4-6921-a6e4-0b66",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8aec-66c5-6248-0bfd",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant General",
+        "id": "c2a2-2ec1-bfbb-f26f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5082-96a2-087b-ffa1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Captain",
+        "id": "ea57-3b10-5538-3e89",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8983-ef36-25b7-a338",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Champion",
+        "id": "bc08-0866-4bbc-898c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "56c8-c0ce-05ba-413b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Warrior",
+        "id": "35c6-2ea2-db7e-272d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "28af-f8f7-13c5-3495",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Linebreaker",
+        "id": "3df7-423f-9b51-c78e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "93d2-5417-c0c1-cb2f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Cavalry",
+        "id": "220b-7227-62ff-5f3b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a753-0674-5156-7ec0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Revenant Chariot",
+        "id": "f8b3-ae71-fd85-14ec",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "65c1-c73d-0ed1-9afa",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Necromancer",
+        "id": "32b3-98e6-f5fe-9eb7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "178d-48a8-53ab-bc55",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Skeletal Champion",
+        "id": "37ac-6def-3754-049d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1cac-7185-8ad8-b49b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Skeletal Archer",
+        "id": "35ab-7875-9cbe-83d3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9662-2e62-32da-c81e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Skeletal Soldier",
+        "id": "4806-ec1d-7186-c9e6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3075-e1f4-7870-a3b6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Skeletal Spearman",
+        "id": "b2ae-3360-d8dd-d7ea",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d6cd-2a24-edaf-980e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ghoul",
+        "id": "a2fe-423f-1873-c49f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e63d-31cb-0234-2be9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Skeletal Light Catapult",
+        "id": "c055-f20f-c055-4aa6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ad83-23d5-ad64-8cb8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Wraith",
+        "id": "9922-a0eb-c542-751b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ee6e-5382-0f8a-a15a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "UdCorpse Fire ",
+        "id": "a196-545f-6f6a-485a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2d7d-18f8-2202-b07d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Vampire",
+        "id": "80fd-48bb-4e58-df36",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "67e0-e102-71f4-5a08",
+        "type": "selectionEntry"
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Undead Revenant King",
+        "id": "b514-09ea-cfe3-8bbc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 10,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8368-74b1-ff12-d275", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Undead", "id": "311b-b919-3d2a-8cc1", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "b058-174e-7a66-aa84",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "19ab-c6f4-ad88-9af0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "2ab6-5628-3229-222f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "b5b5-f0ae-6c38-1402",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "c7d1-0686-7c3b-d45e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 325}],
+            "infoLinks": [
+              {"name": "Champion", "id": "b009-79f4-070c-30bd", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Magic Items", "id": "640d-8bff-9447-0036", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Undead", "id": "73f3-937f-1c62-fc87", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "bb3a-e768-92b2-5fe9", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Command (X)", "id": "12d4-3581-be3f-4d0a", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Spellcaster (X)", "id": "1a77-d0d2-fce8-0679", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant King",
+                "id": "d709-2f37-dbd2-5dab",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "4", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Command(2), Champion, Magic Items, Spellcaster (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "210e-0705-a90d-97ed",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "b514-09ea-cfe3-8bbc",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "7718-8b75-e601-a306",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "b514-09ea-cfe3-8bbc",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Undead Horse",
+            "id": "210e-0705-a90d-97ed",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "35df-e888-a70b-b598",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 40}],
+            "profiles": [
+              {
+                "name": "Undead Horse (Character)",
+                "id": "1b5f-260a-ea6e-53bb",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Undead Horse +40pts, change stats to M8, D13, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "7718-8b75-e601-a306",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "25e9-3db8-5946-fe1c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 100}],
+            "infoLinks": [
+              {"name": "Wild Charge", "id": "e6bf-25f7-8d6a-77bb", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "0788-1d7c-de6f-f4b8", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "8225-444d-355b-0078", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "ef73-7acc-bec6-996d", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Charge (X)", "id": "f779-06ec-ee29-813a", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot (Character)",
+                "id": "93ea-5784-e242-f9dc",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +100pts, change stats to M7, D13, Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Prince",
+        "id": "8aec-66c5-6248-0bfd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 11,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "976a-d5c2-7d93-0971", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Undead", "id": "451f-c68e-8f09-b3b7", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "90aa-33db-c413-53ef",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "d89e-e9e5-4c4c-b481",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "28ed-d8cf-09b6-1f1f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "4b87-714e-b673-36d1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "6138-a316-6b75-114b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 156}],
+            "infoLinks": [
+              {"name": "Champion", "id": "e985-47f4-bd98-d63d", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Magic Items", "id": "bb19-48d6-b8ce-2556", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Undead", "id": "8a9e-9baa-5c83-1cfe", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "2bee-effb-43c5-364e", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Command (X)", "id": "87f0-a966-5378-73aa", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Spellcaster (X)", "id": "2b21-13f8-4015-16aa", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Prince",
+                "id": "157b-1c51-45ee-3f7c",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Command(1), Champion, Magic Items, Spellcaster (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "69c5-9518-996c-c949",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "639d-1b46-7fca-e152",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Undead Horse",
+            "id": "69c5-9518-996c-c949",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "232c-87e1-5373-b2e9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 30}],
+            "profiles": [
+              {
+                "name": "Undead Horse (Character)",
+                "id": "84f9-54d9-1797-be83",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Undead Horse +40pts, change stats to M8, D13, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "639d-1b46-7fca-e152",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "38d5-aace-c845-97be",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 120}],
+            "infoLinks": [
+              {"name": "Wild Charge", "id": "8df3-2dce-d888-aa69", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "6a67-fc2f-eba0-3ac1", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "9b43-fc3e-9bc3-ce7d", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "7483-f2ee-2af6-8b8f", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Charge (X)", "id": "3436-774a-0dbc-fb8d", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot (Character)",
+                "id": "69a2-e851-9e99-e46c",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +100pts, change stats to M7, D13, Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant General",
+        "id": "5082-96a2-087b-ffa1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 11,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "74e2-e152-37f7-aa96", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Undead", "id": "e435-810a-daaa-1c2b", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "1278-56e0-ba0c-66c4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "ac51-d7b6-f0c3-bf8c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "351a-9752-8923-8d6b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "0efb-2eda-2413-3254",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "d57e-165c-02d4-d17c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 279}],
+            "infoLinks": [
+              {"name": "Champion", "id": "f31c-d3b4-3add-c014", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Magic Items", "id": "974e-69f2-8724-216a", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Undead", "id": "108e-60f0-9e0a-9fa1", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "b46f-a41d-c92a-6f45", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Command (X)", "id": "0306-93b7-da83-425c", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Spellcaster (X)", "id": "1217-5c50-e3b2-f514", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant General",
+                "id": "40a5-3b26-2bb3-6267",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Command(2), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "69c5-9518-996c-c949",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "639d-1b46-7fca-e152",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Undead Horse",
+            "id": "98fa-eb51-e9d3-80d4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "e7c4-e980-cd14-c7a0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 30}],
+            "profiles": [
+              {
+                "name": "Undead Horse (Character)",
+                "id": "ddff-2bea-ebf4-19cb",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Undead Horse +40pts, change stats to M8, D13, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "5aa7-14aa-ff3e-163a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "71ce-6cd0-0124-583f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 120}],
+            "infoLinks": [
+              {"name": "Wild Charge", "id": "827e-8422-9466-6fa3", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "90dc-539f-a659-5789", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "1c6a-cfa2-14e9-b594", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "f8b3-755b-8dbf-02ff", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Charge (X)", "id": "e9cb-388e-9693-b2cf", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot (Character)",
+                "id": "ab49-708f-e78b-2954",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +100pts, change stats to M7, D13, Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Captain",
+        "id": "8983-ef36-25b7-a338",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 12,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "5457-4213-1b7e-2138", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Undead", "id": "5dbd-58ec-fb21-acf2", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "610d-3c52-f102-40ea",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "1dcc-2033-bb6d-e25d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "d4e4-b77e-e7d9-e43d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "b1df-bc56-0183-9ff7",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "7c30-7bde-e182-0448",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 279}],
+            "infoLinks": [
+              {"name": "Champion", "id": "85b0-2fb3-6f31-5910", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Magic Items", "id": "d3bd-11d0-0b78-5b7c", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Undead", "id": "071f-fc50-51da-a85b", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "8122-298d-9664-bde5", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Command (X)", "id": "b999-e3e8-3185-410b", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Spellcaster (X)", "id": "ef05-4f0a-954b-5c53", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Captain",
+                "id": "db55-45b1-1f4c-5488",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Command(1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "69c5-9518-996c-c949",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "639d-1b46-7fca-e152",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Undead Horse",
+            "id": "d2af-8979-966f-e1f1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "10a0-1628-2c4c-f33d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "profiles": [
+              {
+                "name": "Undead Horse (Character)",
+                "id": "9a75-e687-5822-c6e7",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Undead Horse +40pts, change stats to M8, D13, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "4774-01a4-0c07-9b8e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "49d6-85ad-34b7-d9c7",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 140}],
+            "infoLinks": [
+              {"name": "Wild Charge", "id": "22ab-e266-b277-5038", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "9d8d-9d4f-7eca-ec57", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "a151-7faa-a68b-7270", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "bac6-dfc2-7b15-64b0", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Charge (X)", "id": "e087-123b-435c-823d", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot (Character)",
+                "id": "6ba2-5397-23ee-b5a5",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +100pts, change stats to M7, D13, Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Champion",
+        "id": "56c8-c0ce-05ba-413b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 14,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "d68f-fa1b-c9f4-eef2", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Undead", "id": "58ee-c88a-b32b-a7d0", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "b646-fc31-ea86-e1e1",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "a748-7403-ba43-4ebf",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "f5c0-17a9-49e2-4072",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "2146-894d-c9c0-b152",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "8e2c-8f49-3218-fa55",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 52}],
+            "infoLinks": [
+              {"name": "Champion", "id": "dd40-1fa0-44f9-e407", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Magic Items", "id": "39b0-5e84-893c-f492", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Undead", "id": "d157-d014-5ab7-2816", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "370c-9f24-b5e2-2161", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Command (X)", "id": "1a57-880f-83b7-cc96", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Spellcaster (X)", "id": "1b4d-cb9d-09a7-7d8f", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Champion",
+                "id": "a9e1-9bac-e2f7-3a66",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Command(1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "69c5-9518-996c-c949",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "639d-1b46-7fca-e152",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "8aec-66c5-6248-0bfd",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Undead Horse",
+            "id": "63bc-4634-8562-81a2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "4d43-c09d-29b9-d193",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "profiles": [
+              {
+                "name": "Undead Horse (Character)",
+                "id": "0079-d521-3582-fb4d",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Undead Horse +40pts, change stats to M8, D13, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "0f08-f23a-966b-2779",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "3b45-18cb-ccab-ab85",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 140}],
+            "infoLinks": [
+              {"name": "Wild Charge", "id": "7048-b4a7-2459-f7b5", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "5965-8038-c89e-256e", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "0f36-d820-f9b6-f535", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "14b8-66fa-055c-1dd4", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Charge (X)", "id": "7eed-8914-35ea-9408", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot (Character)",
+                "id": "f9e6-8051-e958-f924",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +100pts, change stats to M7, D13, Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Warrior",
+        "id": "28af-f8f7-13c5-3495",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 14,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "37ef-10a9-99c0-1761", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "a2e7-fd8e-7fa0-6d4a", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "bd69-108e-831b-8e34",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "9969-0421-7d3e-1ffb",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "bb70-3694-7d20-0989", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "958f-0c7a-32cc-c22b", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "7db7-a8d8-dae0-4aca",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "1589-3890-aab6-ae05",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 17}],
+            "infoLinks": [
+              {"name": "Undead", "id": "1ec2-01af-5e09-2b01", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "813b-f6db-be6d-cc32", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Warrior",
+                "id": "f9ca-5bec-1f44-45b1",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Linebreaker",
+        "id": "93d2-5417-c0c1-cb2f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 15,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Units", "id": "cd85-e81b-7f14-abed", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "b666-96a2-b63a-d4ad", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "dcc4-09a7-d950-1b48",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "d7b8-2c91-b81d-6fae",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "categoryLinks": [
+              {"name": "Undead", "id": "2a55-144c-bdcb-1788", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "5821-f953-e791-3473", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "40c8-713e-0eca-53bb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "a942-7407-5131-7105",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "infoLinks": [
+              {"name": "Undead", "id": "6433-e4c0-f351-8bc1", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "c5c9-7eb2-3af6-02bb", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Linebreaker",
+                "id": "a9e6-8140-8daa-cb4a",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Cavalry",
+        "id": "a753-0674-5156-7ec0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 15,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "5c24-76c0-9d0e-261a", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "5a1f-b45e-da04-e32c", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "63ef-4ff1-cb63-31c4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "3359-6aa3-af6c-ff27",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "fb88-794c-b5cd-cf30", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "0477-de55-1dc3-bef5", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "9bf8-b474-b029-323c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 10
+              },
+              {
+                "id": "90f3-7953-226a-15ee",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 17}],
+            "infoLinks": [
+              {"name": "Undead", "id": "96ea-63a8-10d1-0f13", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "15df-7879-4b8c-cfcf", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Charge (X)", "id": "7dc3-6bec-eac7-ab75", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Cavalry",
+                "id": "9ccd-1980-9f5f-737e",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "8", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "13", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "2", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, , Charge (3)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Revenant Chariot",
+        "id": "65c1-c73d-0ed1-9afa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 16,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "1fa6-c3bb-eb1b-775b", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "9ec6-18c5-60ac-aab2", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "1720-f7e6-5447-dce1",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "6acd-0a61-6a9b-5eae",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "0961-5f70-3b47-bc9e", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "85fe-bf5e-7d3f-4e59", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "8034-9cbb-9b1f-73ff",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "51dc-5508-5dc6-fa0b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 150}],
+            "infoLinks": [
+              {"name": "Undead", "id": "733d-1b2c-e4ac-e7d0", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "e5a0-f055-ab70-5981", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Charge (X)", "id": "88a3-9ab3-d0df-a877", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "7674-f867-60b4-5940", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "0266-cb0a-3ac6-ded2", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "c5eb-71f2-1489-2b3d", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "2b2a-5e3e-8aff-13de", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Revenant Chariot",
+                "id": "1283-7fd1-7d75-88a3",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "7", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "13", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "50 x 100", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "ffa6-ab99-d744-26b4",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "65c1-c73d-0ed1-9afa",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "6b0c-a9f4-5f79-acfe", "type": "set", "value": 1}]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Archer",
+            "id": "ffa6-ab99-d744-26b4",
+            "collective": false,
+            "comment": "Option: Archer +25pts, change stats to Shoot 1 and add Bow to equipment. A chariot unit may make one free shooting attack after its first move action each turn. However, the figure only has CD1 for this attack.",
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "0f1c-ead4-9796-f8d9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "18f3-9933-a0a8-fc37",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 0
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 25}]
+          }
+        ]
+      },
+      {
+        "name": "Undead Necromancer",
+        "id": "178d-48a8-53ab-bc55",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 18,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "57ad-51f7-5955-6d12", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Undead", "id": "828f-1a75-284c-4095", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "19a2-c65b-df64-ce8a",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "222b-2a39-4c25-7ff6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Spell Level",
+            "id": "650c-0acc-d9f3-98ab",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "0815-6515-7fe0-65b3",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Spells",
+            "id": "82b9-9ba1-84df-51ce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "5f76-a51d-f38e-80fb",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [
+          {
+            "name": "Champion",
+            "id": "402d-0af4-4ef3-ae6b",
+            "hidden": false,
+            "targetId": "e1e0-629d-0360-a4a2",
+            "type": "rule",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "0269-6a83-81ee-70a3",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "178d-48a8-53ab-bc55",
+                    "shared": true,
+                    "type": "notEqualTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {"name": "Fire Over", "id": "975b-78ec-122b-acbe", "hidden": false, "targetId": "e5e5-571b-0197-13b8", "type": "rule"},
+          {"name": "Magic Items", "id": "a43f-43e0-7f11-6df8", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+          {"name": "Shielding (X)", "id": "1fe7-db26-9ae4-b8f7", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+          {"name": "Spellcaster (X)", "id": "0ee1-2c51-c89a-03dc", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "b58f-4ecb-be23-fed6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "c90c-6fe5-7479-9b8e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "629d-406e-9978-510a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 50}],
+            "modifiers": [
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 400,
+                "conditions": [
+                  {
+                    "childId": "0269-6a83-81ee-70a3",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 100,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 200,
+                "conditions": [
+                  {
+                    "childId": "b824-1deb-0891-cef0",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 300,
+                "conditions": [
+                  {
+                    "childId": "bd1f-e4a5-1f3c-54f4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "profiles": [
+              {
+                "name": "Necromancer (Level 1) ",
+                "id": "eefb-4fe5-e8fc-2209",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (1), Shielding (1), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "456f-64d0-740f-9df7",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "94f5-807a-779d-3240",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "ee9c-4d65-815e-1dd5",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "7d31-280f-897f-0915", "type": "append", "value": "Undead"}]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "66d0-bce5-3b98-915c",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Necromancer (Level 2) ",
+                "id": "453d-7097-c33f-4270",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (2), Shielding (1), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "456f-64d0-740f-9df7",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "94f5-807a-779d-3240",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "ee9c-4d65-815e-1dd5",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "7d31-280f-897f-0915", "type": "append", "value": "Undead"}]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "f149-d990-d399-a09d",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Necromancer (Level 3) ",
+                "id": "6e0b-eae5-cb6d-63d5",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (3), Shielding (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "456f-64d0-740f-9df7",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "94f5-807a-779d-3240",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "ee9c-4d65-815e-1dd5",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "7d31-280f-897f-0915", "type": "append", "value": "Undead"}]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "b824-1deb-0891-cef0",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Necromancer (Level 4) ",
+                "id": "2d3f-3b20-769b-7282",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (4), Shielding (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "456f-64d0-740f-9df7",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "94f5-807a-779d-3240",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "ee9c-4d65-815e-1dd5",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "7d31-280f-897f-0915", "type": "append", "value": "Undead"}]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "bd1f-e4a5-1f3c-54f4",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Necromancer (Level 5) ",
+                "id": "70c4-ccbb-0479-34ed",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (5), Shielding (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "456f-64d0-740f-9df7",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 8},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "94f5-807a-779d-3240",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "7d31-280f-897f-0915", "type": "append", "value": " Wild Charge, Large, Limited Manoeuvres,Limited Movement"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "ee9c-4d65-815e-1dd5",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "7d31-280f-897f-0915", "type": "append", "value": "Undead"}]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "0269-6a83-81ee-70a3",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "178d-48a8-53ab-bc55",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mounted",
+            "id": "456f-64d0-740f-9df7",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "f8ba-614e-e552-cbb8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+            "modifiers": [
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 30,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 30,
+                "conditions": [
+                  {
+                    "childId": "b824-1deb-0891-cef0",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 40,
+                "conditions": [
+                  {
+                    "childId": "bd1f-e4a5-1f3c-54f4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 40,
+                "conditions": [
+                  {
+                    "childId": "0269-6a83-81ee-70a3",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "profiles": [
+              {
+                "name": "Mounted (Necromancer)",
+                "id": "9deb-a130-eefe-0f25",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "change stats to M8, D11, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "94f5-807a-779d-3240",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "77fc-59ee-e312-d9fd",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 100}],
+            "infoLinks": [
+              {"name": "Wild Charge", "id": "02c3-7d17-7a67-110d", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "912a-8e66-1304-d79a", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "0a8f-2504-f49c-ecf2", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "d999-d06a-0f1b-9255", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Charge (X)", "id": "f71c-4aae-de6b-6073", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}
+            ],
+            "modifiers": [
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 160,
+                "conditions": [
+                  {
+                    "childId": "0269-6a83-81ee-70a3",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 150,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 150,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 160,
+                "conditions": [
+                  {
+                    "childId": "bd1f-e4a5-1f3c-54f4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "profiles": [
+              {
+                "name": "Chariot (Character)",
+                "id": "613a-01a9-4733-f50d",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +100pts, change stats to M7, D13, Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lich",
+            "id": "ee9c-4d65-815e-1dd5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "d1d7-7181-6e09-59ab",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 10}],
+            "profiles": [
+              {
+                "name": "Lich",
+                "id": "b80f-ce91-cc08-23cf",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "add special ability Undead", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Skeletal Champion",
+        "id": "1cac-7185-8ad8-b49b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 19,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Undead", "id": "e3f7-823c-07e3-de06", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+          {"name": "New CategoryLink", "id": "8c37-be69-b00e-c1a7", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"}
+        ],
+        "constraints": [
+          {
+            "id": "40da-ae39-f8bc-f6fd",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "b453-3d08-d625-3f0e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "0b27-ce2b-7d6b-1ebd",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "0ab1-6124-b568-6d36", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "e717-af0d-7ccf-2e23", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "f2c4-1945-54ea-8e59",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "d99f-3ad6-e0bf-7586",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 50}],
+            "infoLinks": [
+              {"name": "Undead", "id": "3c1f-0859-872e-9be1", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "d886-3aec-0269-c63d", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Champion", "id": "cef3-405d-2160-d6f2", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "c41c-dd06-de19-0dfb", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"},
+              {"name": "Magic Items", "id": "2262-e894-e81e-a547", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "UNTHINKING", "id": "591f-79fb-6fe8-1ba8", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Skeletal Champion",
+                "id": "8359-3bb6-c9fc-b9a1",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Unthinking, Champion, Spellcaster Control, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Skeletal Soldier",
+        "id": "3075-e1f4-7870-a3b6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 20,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "75f6-976f-d1d4-0f86", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "83e8-62fa-f101-364b", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "a753-5905-9503-77fc",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "4f4e-f919-b6b6-1347",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "a2bc-7abd-ffb5-451f", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "3f58-727a-966a-536b", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "ae7c-c33c-8215-99e3",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "860a-45de-15aa-acd4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 11}],
+            "infoLinks": [
+              {"name": "Undead", "id": "e07c-6686-735f-a5fb", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "7ae9-d53f-8fa2-edf9", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "a6d0-73a7-0c16-b43a", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "99cc-2000-291f-bde5", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Skeletal Soldier",
+                "id": "27f0-8866-f78b-1561",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Unthinking, Spellcaster Control", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Skeletal Spearman",
+        "id": "d6cd-2a24-edaf-980e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 20,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "8e2f-2c61-3a89-0090", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "171e-c37b-f7c4-cfb5", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "0d9e-7d81-01dc-9e2b",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "29ab-b343-7ca6-32d8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "3062-1e80-4daa-d0f3", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "9fe5-e8ac-5ed4-925a", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "a960-ceff-8fd9-c7b2",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "d73e-cdd6-eaa7-cc19",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 12}],
+            "infoLinks": [
+              {"name": "Undead", "id": "8a35-d5ce-719a-6474", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "b63f-2226-df44-70e1", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "d17b-adb9-5feb-27a8", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "8dba-ecac-2d65-ca2d", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"},
+              {"name": "Brace", "id": "84b3-e740-729b-169f", "hidden": false, "targetId": "be12-50f9-c669-1c39", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Skeletal Spearman",
+                "id": "d955-33e3-7333-2f0a",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Unthinking, Brace, Spellcaster Control", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Skeletal Archer",
+        "id": "9662-2e62-32da-c81e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 21,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "e735-7ce9-accb-68e7", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "eae1-5a9c-ee1a-587a", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "f6c8-b7b2-76b7-d916",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "aacb-2452-180e-bc93",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "f62c-ec60-ba61-d5b9", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "2ab6-0af4-37c1-c277", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "6d13-cb02-1d91-4b12",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "5298-624e-8869-8a55",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 14}],
+            "infoLinks": [
+              {"name": "Undead", "id": "1c22-0f11-8d32-1ef3", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "a451-e114-4ab0-1188", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "1270-d134-4e2a-27c8", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "08dc-2fa9-b16c-af88", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"},
+              {"name": "Fire Over", "id": "b1bf-6e51-e268-87ff", "hidden": false, "targetId": "e5e5-571b-0197-13b8", "type": "rule"},
+              {"name": "Bow", "id": "a632-4aab-4f0e-0cab", "hidden": false, "targetId": "c45a-be92-d123-7c7a", "type": "profile"}
+            ],
+            "profiles": [
+              {
+                "name": "Skeletal Archer",
+                "id": "9b70-cc14-5932-ee10",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "0", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Unthinking, Fire Over, Spellcaster Control", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Ghoul",
+        "id": "e63d-31cb-0234-2be9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 21,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Undead", "id": "a199-0620-f215-b0d8", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+          {"name": "New CategoryLink", "id": "11be-1309-9273-bcb7", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "6dde-a8bb-5f42-6378",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "bbce-ac88-91b0-4aa1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "02d3-83fd-9bae-5f1d", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "b4fc-f7de-e53c-fde7", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "f0bd-31d1-f038-8c35",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "4191-4ef3-8fea-1f98",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 15}],
+            "infoLinks": [
+              {"name": "Undead", "id": "21dc-a553-427c-7aa3", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "d528-f014-1aad-7780", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "Nimble", "id": "3d7f-2f69-394c-cde9", "hidden": false, "targetId": "14db-7b5c-2e3b-477f", "type": "rule"},
+              {"name": "Wild Charge", "id": "82ac-0a64-5795-49fd", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Ghoul",
+                "id": "79a4-a755-447f-77e5",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Undead, Uncaring, Nimble, Wild Charge", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Skeletal Light Catapult",
+        "id": "ad83-23d5-ad64-8cb8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 22,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Human", "id": "23ab-cc8d-615d-5c09", "hidden": false, "primary": false, "targetId": "9747-df88-6e0b-8d06"},
+          {"name": "New CategoryLink", "id": "0e3d-9309-8577-8dc6", "hidden": false, "primary": true, "targetId": "1bf6-b9a5-9c3b-08b2"}
+        ],
+        "constraints": [
+          {
+            "id": "184e-29bf-91c0-e1e4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Artillery",
+            "id": "8af8-ee4e-ea83-bee5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "9885-e60c-ac0a-b61f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "a01f-d634-5eee-5cbf",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 90}],
+            "infoLinks": [
+              {"name": "Light Catapult", "id": "3a3b-269d-9e07-efe1", "hidden": false, "targetId": "27e4-ab78-9a31-9c4d", "type": "profile"},
+              {"name": "Artillery", "id": "132f-5f70-e920-d530", "hidden": false, "targetId": "fb1c-4a18-0425-e322", "type": "rule"},
+              {"name": "Crew (X)", "id": "1e1a-1d1e-5d44-f205", "hidden": false, "targetId": "fdc2-63bc-906e-0d9b", "type": "rule"},
+              {"name": "Indirect Fire", "id": "bf13-3b83-e77a-3a39", "hidden": false, "targetId": "f48d-b532-ea17-421c", "type": "rule"},
+              {"name": "Shielding (X)", "id": "a0f3-5939-2866-c493", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Undead", "id": "ad61-ba14-67cc-364a", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "b34b-b836-1c64-2382", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "77c6-b6ac-63f4-f769", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "0ecb-c781-6927-7b2e", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Skeletal Light Catapult",
+                "id": "2e69-28cd-d6c2-605a",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "3", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "3", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Artillery, Crew (3), Indirect Fire, Undead, Uncaring, Unthinking, Spellcaster Control", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "100 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Skeletal Ballista",
+        "id": "f176-c930-693c-e493",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 23,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Human", "id": "d44f-2398-a362-1008", "hidden": false, "primary": false, "targetId": "9747-df88-6e0b-8d06"},
+          {"name": "New CategoryLink", "id": "0222-1146-d828-84fb", "hidden": false, "primary": true, "targetId": "1bf6-b9a5-9c3b-08b2"}
+        ],
+        "constraints": [
+          {
+            "id": "2861-1435-028e-26f7",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Artillery",
+            "id": "f29d-e88f-047b-17ea",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "2a0a-f6cd-2ab5-3bbe",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "5171-9150-8f42-a7af",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 95}],
+            "infoLinks": [
+              {"name": "Ballista", "id": "75c2-fe11-a903-f9f6", "hidden": false, "targetId": "bdf6-2e01-e84e-2a6d", "type": "profile"},
+              {"name": "Artillery", "id": "07a4-075b-f477-5d94", "hidden": false, "targetId": "fb1c-4a18-0425-e322", "type": "rule"},
+              {"name": "Crew (X)", "id": "370f-ec05-ab8a-cf52", "hidden": false, "targetId": "fdc2-63bc-906e-0d9b", "type": "rule"},
+              {"name": "Aimed Fire", "id": "d692-9bbc-e1ad-5fd7", "hidden": false, "targetId": "bddf-fe50-8bf3-c960", "type": "rule"},
+              {"name": "Shielding (X)", "id": "5c46-3130-cbc9-95d6", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Undead", "id": "cba7-9ca9-c242-5872", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "UNCARING", "id": "422e-2b82-8e28-6c65", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "a2fa-c47e-6e98-05cc", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "cca9-45ec-6db1-441e", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Skeletal Ballista",
+                "id": "313e-010a-072a-c41f",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "3", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "3", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Artillery, Crew (2), Aimed Fire, Undead, Uncaring, Unthinking, Spellcaster Contro", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "100 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Wraith",
+        "id": "ee6e-5382-0f8a-a15a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 23,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "2523-c5c3-5875-6518", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "5bc0-8b84-1ed6-307b", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "4440-1c61-102f-384b",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "61f7-709b-fe36-96d8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "cc31-6611-7e82-c93d", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "93b6-a0ca-14f3-988e", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "d042-9402-f351-d46b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "f91a-a3c9-bb27-5e30",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 154}],
+            "infoLinks": [
+              {"name": "Undead", "id": "5cbe-deb1-1e5f-3aa5", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "Monster", "id": "eff2-347e-6e85-3714", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"},
+              {"name": "SHADOWFORM", "id": "2966-b08f-7a97-6ddb", "hidden": false, "targetId": "d14f-c1a4-f48e-f672", "type": "rule"},
+              {"name": "Nimble", "id": "e44b-fc0b-6a06-3727", "hidden": false, "targetId": "14db-7b5c-2e3b-477f", "type": "rule"},
+              {"name": "Horrific", "id": "d892-809b-d50a-ab85", "hidden": false, "targetId": "2bec-589c-3375-f5be", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Wraith",
+                "id": "0901-00eb-42d8-d40a",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "3", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "4", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "12", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "4", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "4", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Monster, Undead, Shadowform, Nimble, Horrific", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Corpse Fire ",
+        "id": "2d7d-18f8-2202-b07d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 25,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "c9ca-6571-132e-6208", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "a196-d4b1-8596-e8fe", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "df09-3431-82dd-cef8",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "b6d8-0f50-27db-34ce",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "8881-60c4-25ec-7475", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "b053-38db-ec33-850f", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "c33f-af1e-cb2e-990a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "f544-933c-4218-7ff0",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 154}],
+            "infoLinks": [
+              {"name": "Undead", "id": "5ebf-5129-691e-7ca0", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "Monster", "id": "d3db-13d8-a801-61e9", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"},
+              {"name": "SHADOWFORM", "id": "cd52-7555-1318-77de", "hidden": false, "targetId": "d14f-c1a4-f48e-f672", "type": "rule"},
+              {"name": "Nimble", "id": "7c9b-4bcf-0747-1df3", "hidden": false, "targetId": "14db-7b5c-2e3b-477f", "type": "rule"},
+              {"name": "UNCARING", "id": "71b2-181e-ca9a-3f26", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "133e-e6bf-516e-b2c3", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "Fire Breath", "id": "3092-a12d-08c8-5cb4", "hidden": false, "targetId": "ab77-bad4-c97e-bb83", "type": "rule"},
+              {"name": "Horrific", "id": "5cfb-00ec-557b-2528", "hidden": false, "targetId": "2bec-589c-3375-f5be", "type": "rule"},
+              {"name": "Regenerate (X)", "id": "e964-7c04-0d17-815b", "hidden": false, "targetId": "6f49-85ad-2c9d-22ce", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "aef5-b605-eda5-0778", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Corpse Fire ",
+                "id": "43b8-1189-c918-9964",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "2", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "2", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {
+                    "name": "Special",
+                    "$text": "Monster, Undead, Uncaring, Unthinking, Fire Breath, Horrific, Regeneration (1), Spellcaster Control",
+                    "typeId": "7d31-280f-897f-0915"
+                  },
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Barrow Worm",
+        "id": "443c-d1ae-b6b1-d6f0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 27,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "9788-3533-1117-f32e", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "9208-135b-145d-da09", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "5789-8ec5-256b-d019",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "69d5-8f26-fe29-4303",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "76a8-1b62-1a4d-3e23", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "f13d-4a9e-23c7-615f", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "3ec7-1737-6d89-be84",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "550a-2435-2a75-b8a8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 154}],
+            "infoLinks": [
+              {"name": "Undead", "id": "c480-acf0-09f6-3377", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "Monster", "id": "e7d8-93b0-0bca-1207", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"},
+              {"name": "Nimble", "id": "4f6e-d94c-6569-c0f5", "hidden": false, "targetId": "14db-7b5c-2e3b-477f", "type": "rule"},
+              {"name": "Horrific", "id": "4ecf-6bbf-ec50-ff76", "hidden": false, "targetId": "2bec-589c-3375-f5be", "type": "rule"},
+              {"name": "UNCARING", "id": "afad-5905-8796-8c32", "hidden": false, "targetId": "aa47-8fc8-52b5-bd0b", "type": "rule"},
+              {"name": "UNTHINKING", "id": "2183-782a-9583-f940", "hidden": false, "targetId": "1b73-6496-f03f-df10", "type": "rule"},
+              {"name": "Enormous", "id": "e0c5-95ff-e1f7-bb03", "hidden": false, "targetId": "f1d0-4ab5-870c-853b", "type": "rule"},
+              {"name": "SPELLCASTER CONTROL", "id": "73bb-a6ff-8772-1100", "hidden": false, "targetId": "79b0-2398-3d7d-ee67", "type": "rule"},
+              {"name": "Waterwalk", "id": "b1b4-45b9-af20-4522", "hidden": false, "targetId": "b459-60f0-d543-c520", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Barrow Worm",
+                "id": "8188-4214-749f-843e",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "8", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "8", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "12", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "5", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {
+                    "name": "Special",
+                    "$text": "Monster, Enormous, Nimble, Horrific, Spellcaster Control, Undead, Uncaring, Unthinking, Waterwalk",
+                    "typeId": "7d31-280f-897f-0915"
+                  },
+                  {"name": "Base", "$text": "50 x 100", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Undead Vampire",
+        "id": "67e0-e102-71f4-5a08",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 23,
+        "publicationId": "3f4b-7972-0d88-d8ba",
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Units", "id": "e620-dcd4-bbad-2ab8", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Undead", "id": "dec2-e572-9df4-656f", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"}
+        ],
+        "constraints": [
+          {
+            "id": "9601-d477-0c0f-02b4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "38e9-f7c0-2cf7-2681",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "6e92-80f7-7f15-52fd",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Undead", "id": "24fb-a23e-53c4-5ce5", "hidden": false, "primary": false, "targetId": "b233-64d3-92e8-37b0"},
+              {"name": "Units", "id": "d9bf-2eb9-a454-afae", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "a1b0-a233-2e4d-aa2e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "4a58-a02f-4767-095a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 154}],
+            "infoLinks": [
+              {"name": "Undead", "id": "f94b-7bbd-da2b-5245", "hidden": false, "targetId": "dc53-392d-09cc-cd4d", "type": "rule"},
+              {"name": "Monster", "id": "8815-a33d-f960-014b", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"},
+              {"name": "Discorporate", "id": "43fb-3949-3069-85f6", "hidden": false, "targetId": "27f8-1735-5af6-a1f3", "type": "rule"},
+              {"name": "Magic Items", "id": "a562-71d7-2354-d0ec", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Shielding (X)", "id": "ce80-cbea-9205-6177", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Spellcaster (X)", "id": "b808-27f3-964e-eb2d", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"},
+              {"name": "Stone Gaze", "id": "58a9-35ac-a3b4-4790", "hidden": false, "targetId": "d559-fed2-454b-cc4d", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Vampire",
+                "id": "5cd4-ee48-ba64-8d9c",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "2", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "12", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "5", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Monster, Undead, Discorporate, Magic Items, Shielding (1), Spellcaster (3), Stone Gaze", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
