@@ -1,0 +1,2803 @@
+{
+  "catalogue": {
+    "name": "Dwarf List",
+    "id": "8d24-f1e8-0719-920b",
+    "authorContact": "miniatorium@gmail.com",
+    "authorName": "Miniatorium aka. Torben Kastbjerg",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "186f-c0b9-b3fb-b13f",
+    "gameSystemRevision": 6,
+    "library": false,
+    "readme": "This is the full list for playing one-off games, without a kingdom and using the Dwarfs.",
+    "revision": 2,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Indrik",
+        "id": "62ea-a976-00bb-855a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "42b9-31d3-f252-3c52",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Eachy",
+        "id": "e3e2-2425-b6f7-3acc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2549-273a-1979-3afc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Warrior",
+        "id": "71d5-90c1-1984-8492",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d2e7-c94d-13b0-42f2",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Spearman",
+        "id": "ce2d-f5da-c2e5-b366",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6eb3-6b89-5987-248e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Soldier",
+        "id": "0251-107d-7e4c-da8f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a098-4f08-d164-f3e7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Prince",
+        "id": "40ff-ce57-5b5a-0276",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "84b9-686a-6d09-07a7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Militia",
+        "id": "c8a9-d984-edf4-2408",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "83ea-2c2a-d76b-3d68",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Linebreaker",
+        "id": "3b96-2a38-0fd2-97df",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9df7-be91-5088-c1ba",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Light Catapult",
+        "id": "56a7-17d3-231c-897b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1a8e-740e-5a4b-54ea",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf King",
+        "id": "abce-c311-89d6-9365",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f704-0bae-b853-bb5d",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Heavy Catapult",
+        "id": "14a5-3870-e2fb-e1d9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "04d0-b30a-d8db-d369",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf General",
+        "id": "734e-02a3-5473-0de2",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "354e-d71d-934a-e8e7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Champion",
+        "id": "3f66-6346-3e91-8fcb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "19fd-43fd-50be-43b0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Captain",
+        "id": "7138-424e-c31e-ed00",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fdc1-3663-6ff1-ca18",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Border Guard",
+        "id": "fa07-7523-7ca3-278e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8534-33c1-8783-a878",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Archer",
+        "id": "ec73-030f-1c1f-fc9e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3cf7-829e-0735-034b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Barghest",
+        "id": "46c6-e838-b849-f78d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c31f-6b49-0b42-1c04",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Spellcaster",
+        "id": "5ea4-05cb-5619-b890",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1cf7-8d12-d9f3-7994",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dragon",
+        "id": "8b07-d649-4cee-88c4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2c9d-2aa8-9473-2bd9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Surma",
+        "id": "f71b-0bcb-91d9-8e98",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "77db-fa21-7015-ff51",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Bodach",
+        "id": "3202-398c-0bdd-168d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "63b4-a5a1-fe29-183b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gargoyles",
+        "id": "aefb-d18b-6c77-8b15",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4be8-a5b8-f44e-fe37",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Dwarf Chariot",
+        "id": "0496-68cb-a5da-72c7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5cf9-7d72-7114-74cf",
+        "type": "selectionEntry"
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Barghest",
+        "id": "c31f-6b49-0b42-1c04",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 95,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "b7b2-48ed-5a1b-7966", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "2d25-b4c0-0b08-8209", "hidden": false, "primary": true, "targetId": "94a6-2e72-4cf6-b491"}
+        ],
+        "constraints": [
+          {
+            "id": "0108-7bc2-f5c8-6a83",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Monster",
+            "id": "4ce3-005a-4297-fe55",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "3879-0407-eb40-6226",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "aef1-3bac-f279-362b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 200}],
+            "infoLinks": [
+              {"name": "Discorporate", "id": "c9c4-6e9e-0e7b-b3c5", "hidden": false, "targetId": "27f8-1735-5af6-a1f3", "type": "rule"},
+              {"name": "Monster", "id": "bbf7-8b6a-5514-6d20", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"},
+              {"name": "Horrific", "id": "0ca4-1d6c-c450-da23", "hidden": false, "targetId": "2bec-589c-3375-f5be", "type": "rule"},
+              {"name": "Shielding (X)", "id": "1cf3-a52d-0b05-af8f", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Large", "id": "bee1-6818-54a0-51df", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "Wild Charge", "id": "c856-fda2-03e8-e23a", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Barghest",
+                "id": "b051-3d49-410f-6400",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "8", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "4", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "4", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Monster, Shielding (1), Wild Charge, Discorporate, Horrific, Large", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "50 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Archer",
+        "id": "3cf7-829e-0735-034b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 89,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "2a82-260f-f416-e494", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "b1fd-8bdb-35b7-6fbe", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "9ccf-cb4e-7c0c-5346",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "infoLinks": [
+          {"name": "Fire Over", "id": "315a-34c4-3135-7faa", "hidden": false, "targetId": "e5e5-571b-0197-13b8", "type": "rule"},
+          {"name": "Bow", "id": "ee3d-a4c0-42af-3727", "hidden": false, "targetId": "c45a-be92-d123-7c7a", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Dwarf Archer",
+            "id": "8a50-4362-8a58-bccd",
+            "hidden": false,
+            "typeId": "7e46-13ea-bb70-9f02",
+            "typeName": "Figure",
+            "characteristics": [
+              {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+              {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+              {"name": "F", "$text": "0", "typeId": "f43f-b98a-b1e7-29ee"},
+              {"name": "S", "$text": "2", "typeId": "6b0c-a9f4-5f79-acfe"},
+              {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+              {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+              {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+              {"name": "Special", "$text": "Fire Over", "typeId": "7d31-280f-897f-0915"},
+              {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+            ]
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "4ae6-7593-a4aa-63e0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "c64d-ebf9-9646-2b06",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "1cb5-fadc-718b-d14e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 15}]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Border Guard",
+        "id": "8534-33c1-8783-a878",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 91,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "a8b6-1b10-8aff-52da", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "49c3-2748-4e16-5e36", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "0f66-b9aa-f4e2-6b6e",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "7259-b57a-5b9c-4858",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "2ed6-a10a-89ec-da72",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "8c98-54ff-8ad9-1046",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 17}],
+            "infoLinks": [
+              {"name": "Aimed Fire", "id": "bf59-9adc-61df-7052", "hidden": false, "targetId": "bddf-fe50-8bf3-c960", "type": "rule"},
+              {"name": "Nimble", "id": "567f-4be4-dc9f-1c27", "hidden": false, "targetId": "14db-7b5c-2e3b-477f", "type": "rule"},
+              {"name": "Bow", "id": "c66f-4f72-4e74-24c0", "hidden": false, "targetId": "c45a-be92-d123-7c7a", "type": "profile"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Border Guard",
+                "id": "afd2-d1ee-ead5-595e",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "0", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "2", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Nimble, Aimed Fire", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Captain",
+        "id": "fdc1-3663-6ff1-ca18",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 87,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "75f5-aef8-38ab-40cb", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "cfd9-bbe9-0fe9-960e", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"}
+        ],
+        "constraints": [
+          {
+            "id": "6e10-ac4a-ca3e-c065",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "0162-3aad-c6dd-e9ad",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "e6bc-6d08-1bbf-bd7f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "298e-9f18-caee-9233",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "7479-5843-1ad2-a7a9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 150}],
+            "infoLinks": [
+              {"name": "Command (X)", "id": "a68c-c277-7011-3b4b", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Magic Items", "id": "d303-32b6-6f31-6f71", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Shielding (X)", "id": "7ff3-6eaf-179b-e9ca", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Captain",
+                "id": "de65-0b78-91a6-a2e5",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Command (1), Shielding (1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "3129-e57b-bef9-0fe8",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "fdc1-3663-6ff1-ca18",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "3129-e57b-bef9-0fe8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "8d2e-4147-4017-7f0d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 160}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "eb29-a50f-7a1f-d41b", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "b699-0fbc-850f-73eb", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "1c39-58ae-24d9-5a8a", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "ad64-9983-7330-e97c", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "c034-52d5-8e4f-4623", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot",
+                "id": "671a-cdc4-78d0-858e",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +160pts, change stats to M7, D13, CD3, H3, add Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Champion",
+        "id": "19fd-43fd-50be-43b0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 87,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "2b92-af62-fdab-d4cf", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "ff86-2022-8975-8ccf", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"}
+        ],
+        "constraints": [
+          {
+            "id": "61b6-14a7-b502-4318",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "ce31-17cd-a708-a87c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "0cbe-6f65-5f54-4a56",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "0dbb-97d7-ce19-8632",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "40d8-33d1-d8b5-bfe9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 62}],
+            "infoLinks": [
+              {"name": "Champion", "id": "d20b-914f-849d-a8d9", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Magic Items", "id": "2d73-dff4-d39c-637e", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Shielding (X)", "id": "dee0-adb7-853e-506d", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Champion",
+                "id": "16b4-b423-2eab-9bc4",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "4", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Champion, Shielding (1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "d62d-90a6-ebb7-b207",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "19fd-43fd-50be-43b0",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "d62d-90a6-ebb7-b207",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "3ec1-78d5-e178-6206",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 140}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "7155-6a1f-e161-52e0", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "c704-176f-73f8-708e", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "d3e9-86c1-6491-68cf", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "e953-dd7b-e2c7-fff7", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "dede-6089-fec6-d844", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot",
+                "id": "4412-a061-f2f5-76e8",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +140pts, change stats to M7, D13, CD3, H3, add Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf General",
+        "id": "354e-d71d-934a-e8e7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 86,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "d04c-3be6-b0b0-f192", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "3f9b-8208-ee9e-e60e", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "General", "id": "4c25-788a-fc3c-ea9e", "hidden": false, "primary": false, "targetId": "a28c-54a8-2442-de24"}
+        ],
+        "constraints": [
+          {
+            "id": "020f-ac52-1f67-a13d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "b6b2-c2f3-5ed1-81d6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "02be-e3f1-ba41-18a2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "6c02-0a74-12cc-34a1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "7481-8d2a-e9fe-4ac8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 293}],
+            "infoLinks": [
+              {"name": "Command (X)", "id": "5134-6bc8-f80b-7936", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Magic Items", "id": "223e-d4e6-8adc-bd2f", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Shielding (X)", "id": "e044-0077-35d5-03d5", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf General",
+                "id": "5de0-ed54-2759-98c7",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Command (2), Shielding (1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "cbd5-2415-e4d5-6c90",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "354e-d71d-934a-e8e7",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "cbd5-2415-e4d5-6c90",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "6e22-f592-3eab-0266",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 140}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "876f-031f-1e89-a97f", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "0b41-7854-3443-be91", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "7ec0-e839-4988-7e41", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "ff61-5aa0-5fb6-1f63", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "86e7-7a28-28b3-6c65", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot",
+                "id": "d15a-c55f-8cd1-5a3d",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": ": Chariot +140pts, change stats to M7, D13, CD3, H3, add Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Heavy Catapult",
+        "id": "04d0-b30a-d8db-d369",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 93,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "f525-5407-7e37-33fc", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "c558-e54c-e8fa-3231", "hidden": false, "primary": true, "targetId": "1bf6-b9a5-9c3b-08b2"}
+        ],
+        "constraints": [
+          {
+            "id": "02af-856a-1c45-0003",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Artillery",
+            "id": "f7e9-c9a9-d229-26f0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "3888-025c-91d2-2576",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "b9e1-70a8-11a5-e3c7",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 140}],
+            "infoLinks": [
+              {"name": "Heavy Catapult", "id": "9320-c8ae-e3ec-1684", "hidden": false, "targetId": "9e69-950d-59e6-c911", "type": "profile"},
+              {"name": "Artillery", "id": "c69e-61fe-fea8-d89e", "hidden": false, "targetId": "fb1c-4a18-0425-e322", "type": "rule"},
+              {"name": "Crew (X)", "id": "f9f1-4f90-4296-899a", "hidden": false, "targetId": "fdc2-63bc-906e-0d9b", "type": "rule"},
+              {"name": "Indirect Fire", "id": "aff8-ae3f-5857-1e91", "hidden": false, "targetId": "f48d-b532-ea17-421c", "type": "rule"},
+              {"name": "Shielding (X)", "id": "fe66-507e-fa64-eeef", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Heavy Catapult",
+                "id": "0846-25ef-01a5-1a07",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "2", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "4", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Artillery, Crew (4), Indirect Fire, Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "100 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf King",
+        "id": "f704-0bae-b853-bb5d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 85,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "7cde-9033-6bbe-b9f6", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "ab33-cdf2-007b-32c4", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"}
+        ],
+        "constraints": [
+          {
+            "id": "e893-2050-7d9c-2450",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "44d2-bdc6-862a-9905",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "eb55-98f2-a232-1847",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "baf8-784e-05da-f404",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "3a13-4c6b-65c2-a43b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 322}],
+            "infoLinks": [
+              {"name": "Champion", "id": "2891-389f-4a5d-431b", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Command (X)", "id": "c053-d31c-5265-6a5f", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Magic Items", "id": "bb23-c71d-4b84-cb22", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Shielding (X)", "id": "012d-ce79-c47c-0fb1", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf King",
+                "id": "2558-1c30-c1d7-fa19",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "4", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Command (2), Champion, Shielding (1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "636a-56f4-1405-d2e4",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "f704-0bae-b853-bb5d",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "636a-56f4-1405-d2e4",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "8e0e-35e6-62d1-d338",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 110}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "c01a-b231-0978-7f8f", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "277b-2239-6de8-4c2b", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "5099-b656-b049-f459", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "39d6-8bfc-8ad6-9d91", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "645c-6683-d74f-a32d", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot",
+                "id": "4225-cbca-2a20-270f",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +110pts, change stats to M7, D13, add Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Light Catapult",
+        "id": "1a8e-740e-5a4b-54ea",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 93,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "00db-3200-def6-f8a3", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "b261-4abb-d99b-cf3e", "hidden": false, "primary": true, "targetId": "1bf6-b9a5-9c3b-08b2"}
+        ],
+        "constraints": [
+          {
+            "id": "d6ba-110f-c698-0cc7",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Artillery",
+            "id": "9c04-df4b-b023-74dc",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "19da-0d1e-6a5f-897a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "9222-0736-32cf-9153",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 120}],
+            "infoLinks": [
+              {"name": "Light Catapult", "id": "d027-7d52-b5c4-1e96", "hidden": false, "targetId": "27e4-ab78-9a31-9c4d", "type": "profile"},
+              {"name": "Artillery", "id": "e880-a2ff-8771-808b", "hidden": false, "targetId": "fb1c-4a18-0425-e322", "type": "rule"},
+              {"name": "Crew (X)", "id": "3150-fdbc-2233-096b", "hidden": false, "targetId": "fdc2-63bc-906e-0d9b", "type": "rule"},
+              {"name": "Indirect Fire", "id": "e90f-2009-1e23-cb18", "hidden": false, "targetId": "f48d-b532-ea17-421c", "type": "rule"},
+              {"name": "Shielding (X)", "id": "dad6-e142-ca85-174e", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Light Catapult",
+                "id": "e24a-f873-8ccd-da66",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "3", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "3", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Artillery, Crew (3), Indirect Fire, Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "100 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Linebreaker",
+        "id": "9df7-be91-5088-c1ba",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 90,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "4460-55a6-d4a1-0278", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "c884-0867-7fc5-8ed9", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "5c89-2085-77b1-8783",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "9c37-4d7d-f77d-003e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "d82a-281c-fe68-f77e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "e79b-0783-c81b-578b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "profiles": [
+              {
+                "name": "Dwarf Linebreaker",
+                "id": "15dd-92b2-4f5e-c71f",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "4", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Militia",
+        "id": "83ea-2c2a-d76b-3d68",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 91,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "fb16-cc8d-6ae4-36de", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "0280-ba2a-93c2-19a0", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "f04a-bfce-7265-de8a",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "b746-66e9-97b4-6b32",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "5e52-9f4c-853b-8153",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "4960-73a6-6fdc-742c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 14}],
+            "profiles": [
+              {
+                "name": "Dwarf Militia",
+                "id": "f70a-229e-12ca-a780",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "5", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Prince",
+        "id": "84b9-686a-6d09-07a7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 85,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "77fb-b8d7-f056-703e", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "0be9-7b9a-81cd-577d", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"}
+        ],
+        "constraints": [
+          {
+            "id": "ffa5-a1df-6bc1-2d4d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Magic Items",
+            "id": "403e-8f29-3153-e681",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "966c-ee78-dd59-b23f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "ca5f-4418-aa15-b62d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "39bf-1cd5-a5b2-1d91",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 165}],
+            "infoLinks": [
+              {"name": "Champion", "id": "8392-ddf0-abc1-fc0f", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Command (X)", "id": "ad24-3101-12c3-787f", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Magic Items", "id": "3dbb-cee1-aaa5-f486", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+              {"name": "Shielding (X)", "id": "97ce-1253-7d51-5f32", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Prince",
+                "id": "d81d-040f-bd71-7ba9",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "2", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Command (1), Champion, Shielding (1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "7e61-f0d8-daeb-15f5",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "84b9-686a-6d09-07a7",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "7e61-f0d8-daeb-15f5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "e286-ba16-2ed1-0571",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 125}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "dc60-7f90-0064-13d8", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "149c-84ef-a9b9-dd49", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "5ee1-a841-7950-5b87", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "LIMITED MANOEUVRES", "id": "fa5d-4c0a-6fe8-d8eb", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "c53f-dc5f-418c-414f", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot",
+                "id": "92d8-5b47-aba2-d141",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": ": Chariot +125pts, change stats to M7, D13, CD3, H3, add Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Soldier",
+        "id": "a098-4f08-d164-f3e7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 88,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "de65-d847-6fd3-a958", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "648f-a9e7-50b2-8553", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "470b-c7e0-2e2b-7260",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "6b1d-6acc-a83e-2f51",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "a493-c369-7f17-4362",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "1b12-3a15-4cbd-548e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 15}],
+            "infoLinks": [{"name": "Shielding (X)", "id": "2ec5-f2ed-aceb-5175", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}],
+            "profiles": [
+              {
+                "name": "Dwarf Soldier",
+                "id": "0e9a-cc80-d48c-577c",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Spearman",
+        "id": "6eb3-6b89-5987-248e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 89,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "bfdc-8ccd-7c5e-50dd", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "94dc-5ce1-d65a-70a6", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "1dea-73fe-6ef1-475d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "38fc-faa8-40a9-298b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "b375-8e26-8180-d0ea",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "8aec-f240-19e3-a00a",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 16}],
+            "infoLinks": [
+              {"name": "Brace", "id": "dbcc-1f71-0113-5bed", "hidden": false, "targetId": "be12-50f9-c669-1c39", "type": "rule"},
+              {"name": "Shielding", "id": "82d0-e416-b10e-1e74", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Spearman",
+                "id": "68d0-28ca-f28e-fd22",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "10", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Shielding (1), Brace", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Warrior",
+        "id": "d2e7-c94d-13b0-42f2",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 89,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "dfae-fc80-3984-ba45", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "9b4a-e31c-f02a-85a1", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "6780-1ed9-8f1b-857d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "fe0e-828a-b620-ebf5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "9758-d95b-84df-0135",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "7e5e-845d-59a5-9f88",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 17}],
+            "infoLinks": [{"name": "Shielding (X)", "id": "8503-5977-50f4-7b91", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}],
+            "profiles": [
+              {
+                "name": "Dwarf Warrior",
+                "id": "29c0-e098-b4fe-e975",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "4", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "11", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Eachy",
+        "id": "2549-273a-1979-3afc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 94,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "1c74-3f33-452a-4518", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "a00a-443c-85ff-36d4", "hidden": false, "primary": true, "targetId": "94a6-2e72-4cf6-b491"}
+        ],
+        "constraints": [
+          {
+            "id": "9fe7-7a7d-148a-8925",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Monster",
+            "id": "6a91-8e4d-39cc-4026",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "3680-4d6f-1804-0e82",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "cc0b-d4ab-1c25-2fc6",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 120}],
+            "infoLinks": [
+              {"name": "Horrific", "id": "4cff-d082-29c4-0890", "hidden": false, "targetId": "2bec-589c-3375-f5be", "type": "rule"},
+              {"name": "Waterwalk", "id": "33d1-8314-5df8-4954", "hidden": false, "targetId": "b459-60f0-d543-c520", "type": "rule"},
+              {"name": "Regenerate (X)", "id": "a62d-c4e8-1873-ac4e", "hidden": false, "targetId": "6f49-85ad-2c9d-22ce", "type": "rule"},
+              {"name": "Monster", "id": "6620-da5c-3ca9-2618", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"},
+              {"name": "Large", "id": "43d0-4606-9c8b-8d48", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "Courage (X)", "id": "e0dc-b841-aed5-50ce", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Eachy",
+                "id": "5e91-1e7f-ef17-0b21",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "7", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "4", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "12", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "5", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Monster, Regenerate (1), Horrific, Waterwalk, Large, Courage (2)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "50 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Indrik",
+        "id": "42b9-31d3-f252-3c52",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "page": 94,
+        "publicationId": "c602-4fcf-d13f-d9b9",
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "2116-da16-5bc6-1190", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "1d8c-f5c6-0b0c-db02", "hidden": false, "primary": true, "targetId": "94a6-2e72-4cf6-b491"}
+        ],
+        "constraints": [
+          {
+            "id": "6d80-fcac-5e20-84a5",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Monster",
+            "id": "d2a6-5378-d3c5-966d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "6f1d-2c1a-51c7-a2ab",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "2207-b09f-0380-c13e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 160}],
+            "infoLinks": [
+              {"name": "Brace", "id": "1b25-fc36-6870-738d", "hidden": false, "targetId": "be12-50f9-c669-1c39", "type": "rule"},
+              {"name": "Charge (X)", "id": "277f-6d07-bc31-9914", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Courage (X)", "id": "2c0a-fe6a-433a-3d6e", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Large", "id": "2789-dd93-9360-383a", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "Shielding (X)", "id": "48ab-ebad-7727-fd10", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Monster", "id": "e1e5-31d7-4cc8-86d8", "hidden": false, "targetId": "5c48-ded2-81a8-607f", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Indrik",
+                "id": "99f2-26fb-f44d-2416",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "6", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "12", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "4", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "5", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Monster, Shielding (1), Charge (3), Brace, Large, Courage (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "50 x 50", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Spellcaster",
+        "id": "1cf7-8d12-d9f3-7994",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Dwarf", "id": "4097-1125-0ca9-ac33", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+          {"name": "New CategoryLink", "id": "836f-391d-4597-c83d", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"}
+        ],
+        "constraints": [
+          {
+            "id": "6963-5810-4d5a-e471",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Spell Level",
+            "id": "e82f-fe98-5645-34d8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "0815-6515-7fe0-65b3",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Spells",
+            "id": "c8d7-4338-0c00-0461",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "5f76-a51d-f38e-80fb",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Magic Items",
+            "id": "94cd-4405-b1e1-2223",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [
+          {"name": "Shielding (X)", "id": "ca70-356f-62e7-95cc", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+          {"name": "Spellcaster (X)", "id": "33c0-929f-88cd-83b3", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"},
+          {"name": "Fire Over", "id": "7021-e6ca-6822-fa54", "hidden": false, "targetId": "e5e5-571b-0197-13b8", "type": "rule"},
+          {"name": "Magic Items", "id": "52cb-8bff-5ebf-c2f3", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"},
+          {
+            "name": "Champion",
+            "id": "eba4-61a0-9904-5773",
+            "hidden": false,
+            "targetId": "e1e0-629d-0360-a4a2",
+            "type": "rule",
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "0269-6a83-81ee-70a3",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "1cf7-8d12-d9f3-7994",
+                    "shared": true,
+                    "type": "notEqualTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "811a-c26c-b402-8583",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "b2d2-fefe-c56e-75df",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "0807-6dd8-e960-35fb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 30}],
+            "modifiers": [
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 60,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 110,
+                "conditions": [
+                  {
+                    "childId": "b824-1deb-0891-cef0",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 200,
+                "conditions": [
+                  {
+                    "childId": "bd1f-e4a5-1f3c-54f4",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 270,
+                "conditions": [
+                  {
+                    "childId": "0269-6a83-81ee-70a3",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Spellcaster (Level 1)",
+                "id": "04ba-9ac6-a1a5-ba4c",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (1), Shielding (1), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "dcde-7192-d52a-f1fa",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "66d0-bce5-3b98-915c",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Dwarf Spellcaster (Level 2)",
+                "id": "902b-829c-0853-cfd9",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcasting (2), Shielding (1), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "dcde-7192-d52a-f1fa",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "f149-d990-d399-a09d",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Dwarf Spellcaster (Level 3)",
+                "id": "298a-0fdf-eef9-690c",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (3), Shielding (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "dcde-7192-d52a-f1fa",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "b824-1deb-0891-cef0",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Dwarf Spellcaster (Level 4)",
+                "id": "0bb3-8ce4-145a-fc5a",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (4), Shielding (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "dcde-7192-d52a-f1fa",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "bd1f-e4a5-1f3c-54f4",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Dwarf Spellcaster (Level 5)",
+                "id": "aacd-5aea-2be3-ca35",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (5), Champion, Shielding (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "dcde-7192-d52a-f1fa",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "50 x 100"},
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 13},
+                      {"field": "149d-d960-26fc-7094", "type": "set", "value": 3},
+                      {"field": "e126-d958-ed2a-df0b", "type": "set", "value": 3}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "0269-6a83-81ee-70a3",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "1cf7-8d12-d9f3-7994",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chariot",
+            "id": "dcde-7192-d52a-f1fa",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "5697-43ce-1b92-1060",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 160}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "8fc2-6a10-e87b-6cb1", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Wild Charge", "id": "1e4f-38c4-f43b-e9a6", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"},
+              {"name": "Large", "id": "e165-b600-d194-af37", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "Limited Manoeuvres", "id": "cafc-bbab-51ba-39c1", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "LIMITED MOVEMENT", "id": "c015-8d87-ffc8-8714", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Chariot",
+                "id": "0cbd-3432-499c-c194",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [
+                  {
+                    "name": "Description",
+                    "$text": "Chariot +160pts for all levels, change stats to M7, D13, CD3, H3, add Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement, Base 50 x 100",
+                    "typeId": "36fc-b818-7170-f03b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Chariot",
+        "id": "5cf9-7d72-7114-74cf",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Units", "id": "9173-c930-8fbf-3c42", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"},
+          {"name": "Dwarf", "id": "dddf-f2c3-5026-bb50", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"}
+        ],
+        "constraints": [
+          {
+            "id": "6bf2-b735-0bc6-d0d8",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Archer",
+            "id": "0343-8232-a938-44ae",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "4ae1-c8ee-6fb1-61a1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 25}]
+          },
+          {
+            "name": "Dwarf Chariot",
+            "id": "eef3-91ac-261c-6489",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Dwarf", "id": "56d4-17a1-7a01-bad9", "hidden": false, "primary": false, "targetId": "e6bb-cd21-a6e2-1584"},
+              {"name": "Units", "id": "a935-93c3-3682-4bda", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "cc50-18bd-1a79-124c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "045c-050e-38ff-4bfe",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 172}],
+            "infoLinks": [
+              {"name": "Charge (X)", "id": "774e-4d8f-938e-65dd", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"},
+              {"name": "Large", "id": "b583-9de2-2e9d-75a9", "hidden": false, "targetId": "5e25-f5dd-20fd-b95c", "type": "rule"},
+              {"name": "Limited Manoeuvres", "id": "3a96-66bb-1f87-c0f0", "hidden": false, "targetId": "3bdd-058d-91fc-a22a", "type": "rule"},
+              {"name": "Limited Movement", "id": "0316-b403-a6bf-9ed9", "hidden": false, "targetId": "81ee-c10a-cf0e-e434", "type": "rule"},
+              {"name": "Wild Charge", "id": "1029-935d-fcb9-442a", "hidden": false, "targetId": "5250-4de4-6b16-d431", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Dwarf Chariot",
+                "id": "9e4f-ee94-24ed-489f",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "4", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "7", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "3", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "13", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "3", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "50 x 100", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "0343-8232-a938-44ae",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "5cf9-7d72-7114-74cf",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "6b0c-a9f4-5f79-acfe", "type": "set", "value": 1}]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

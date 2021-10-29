@@ -1,0 +1,1512 @@
+{
+  "catalogue": {
+    "name": "Halflings",
+    "id": "ef96-f1c3-d2d3-c947",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "186f-c0b9-b3fb-b13f",
+    "gameSystemRevision": 8,
+    "library": false,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Halfling Adventurer",
+        "id": "50b4-b287-3f23-3e65",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "962c-4313-fa66-4772",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Captain",
+        "id": "f54b-6098-c04e-0595",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "26c4-2632-2cc0-cfba",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Champion",
+        "id": "2888-68f3-3802-3737",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d468-8c1b-b100-87ac",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Archer",
+        "id": "54ee-d1c7-6ddc-85cd",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d1d2-12c4-5962-3112",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Soldier",
+        "id": "99a3-9e6a-96b1-70a3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7a6a-2fa3-3b3b-657f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Spearman",
+        "id": "c749-c007-0679-dd2a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "51fc-7cb4-296e-9eb9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Border Scout",
+        "id": "7c5a-c70b-2684-9a96",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5183-b74d-cc53-f015",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Halfling Light Catapult",
+        "id": "abfd-7161-c3f3-9d19",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4661-c1b9-3cc3-27e1",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hound",
+        "id": "b01c-b64c-ba43-5636",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5bdc-a10e-27a4-c792",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Hafling Spellcaster",
+        "id": "8b0d-f07b-b22e-5215",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e788-6778-4491-e0f6",
+        "type": "selectionEntry"
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Halfling Adventurer",
+        "id": "962c-4313-fa66-4772",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Characters", "id": "26c9-b5b3-ee6c-040e", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Halfling", "id": "e242-c1a2-33b2-df99", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"}
+        ],
+        "constraints": [
+          {
+            "id": "d696-026a-6764-1931",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "1f4e-ffdb-e8f9-4032",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "3121-d658-d8cf-7b4b",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "9a1c-3315-a32a-fd0f",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 112}],
+            "infoLinks": [
+              {"name": "Command (X)", "id": "eebc-9dfb-aaa0-0d5b", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Champion", "id": "548c-b544-bfb3-fc2f", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Courage (X)", "id": "bf0b-b6b1-a7ff-9b1a", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Shielding (X)", "id": "3dbd-dae6-2b72-f808", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Magic Items", "id": "4645-daad-59a2-41e5", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Character",
+                "id": "2b0f-1876-0a56-8fca",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "2", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Command (1), Champion, Courage (2), Shielding (1), Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "3f65-e152-7814-129f",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "962c-4313-fa66-4772",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pony",
+            "id": "3f65-e152-7814-129f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "8522-8d3a-1a57-9779",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 30}],
+            "profiles": [
+              {
+                "name": "Pony",
+                "id": "35ad-05dd-7a64-0499",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Pony Mount +30pts, change stats to M7, D11, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Captain",
+        "id": "26c4-2632-2cc0-cfba",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Characters", "id": "0683-b4b7-ba1d-a8a6", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Halfling", "id": "de99-7678-939e-2183", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"}
+        ],
+        "constraints": [
+          {
+            "id": "f59e-02ba-bc96-0b7a",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "9e54-159b-e8e1-330a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "bce1-6856-23bd-91d8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "f6db-2f6a-2e8a-ffc4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 98}],
+            "infoLinks": [
+              {"name": "Command (X)", "id": "a69c-be3c-b62f-02a2", "hidden": false, "targetId": "142c-1d3b-9cce-1f75", "type": "rule"},
+              {"name": "Courage (X)", "id": "cf28-01df-1430-00c3", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Shielding (X)", "id": "fb4d-fe7b-2c95-f372", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Character",
+                "id": "c5c8-9cb6-0f88-90db",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Command (1), Courage (2), Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "f385-a147-a878-3e99",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "26c4-2632-2cc0-cfba",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pony",
+            "id": "f385-a147-a878-3e99",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "b109-f11f-3a4c-b85c",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "profiles": [
+              {
+                "name": "Pony",
+                "id": "d1ed-c30f-fcea-2609",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Pony Mount +20pts, change stats to M7, D11, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Champion",
+        "id": "d468-8c1b-b100-87ac",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Characters", "id": "2412-5c60-7654-2d28", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Halfling", "id": "5b95-3e5e-dc86-7a8c", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"}
+        ],
+        "constraints": [
+          {
+            "id": "abbc-d0cf-98b0-ce53",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "6b28-3286-ed03-01d2",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "9ec1-f602-5a63-da11",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              },
+              {
+                "id": "0a18-2234-3a83-b9d7",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 98}],
+            "infoLinks": [
+              {"name": "Champion", "id": "3b95-4466-1609-4bae", "hidden": false, "targetId": "e1e0-629d-0360-a4a2", "type": "rule"},
+              {"name": "Courage (X)", "id": "fdfb-58ef-254d-9610", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Shielding (X)", "id": "33d1-2a91-e1af-d715", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Character",
+                "id": "0bd5-c257-4c3c-f970",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "2", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Champion, Courage (2), Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "3798-12b9-2d11-ee6e",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "d468-8c1b-b100-87ac",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 11},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25x50"}
+                    ]
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "childId": "0f2a-70cb-914a-559a",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "d468-8c1b-b100-87ac",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [{"field": "f43f-b98a-b1e7-29ee", "type": "set", "value": 2}, {"field": "7d31-280f-897f-0915", "type": "set", "value": "Champion, Courage (2)"}]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pony",
+            "id": "3798-12b9-2d11-ee6e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "8d72-b0e7-29ee-4de4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "profiles": [
+              {
+                "name": "Pony",
+                "id": "3b01-e5b9-6752-035b",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Pony Mount +20pts, change stats to M7, D11, Base 25 x 50", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          },
+          {
+            "name": "Two-handed weapon",
+            "id": "0f2a-70cb-914a-559a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "ff14-6397-8a9d-49ba",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "profiles": [
+              {
+                "name": "Two-handed weapon",
+                "id": "fb60-8b4f-4850-aa51",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Two-handed weapon +2pts, change stats to F3, but lose Shielding (1)", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Soldier",
+        "id": "7a6a-2fa3-3b3b-657f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Halfling", "id": "a4bc-6d3b-0137-2a99", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+          {"name": "Units", "id": "28e6-3364-1ef6-11f1", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "df85-0643-c93f-a83a",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "b663-bdf8-9656-b714",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Halfling", "id": "1105-bdb8-a94e-c1da", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+              {"name": "Units", "id": "80a3-47f7-f276-3b7e", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "08a0-a9e7-3eb9-3e8d",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "a925-a56f-e665-77fb",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 9}],
+            "infoLinks": [
+              {"name": "Courage (X)", "id": "493f-6565-1d39-043d", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Shielding (X)", "id": "fa96-143c-7e9e-58e8", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Figures",
+                "id": "8954-2c51-2785-b242",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Courage (2), Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Spearman",
+        "id": "51fc-7cb4-296e-9eb9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Halfling", "id": "da7c-fddb-101a-bb7c", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+          {"name": "Units", "id": "7e38-1cd9-1dfa-8f9b", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "77dc-9373-f0d8-c0ff",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "e201-bf5c-9b16-46b5",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "unit",
+            "categoryLinks": [
+              {"name": "Halfling", "id": "3441-437c-fd57-df0a", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+              {"name": "Units", "id": "5049-2d11-b832-3d63", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "a899-989b-9cec-1495",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "b7b0-bc93-9af6-e4c1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 10}],
+            "infoLinks": [
+              {"name": "Courage (X)", "id": "75c5-3881-b180-d1e3", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Shielding (X)", "id": "3a04-7769-26d6-c445", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+              {"name": "Brace", "id": "554c-c5d0-87fc-8c5d", "hidden": false, "targetId": "be12-50f9-c669-1c39", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Figures",
+                "id": "705c-0fe7-b68e-625b",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Brace, Courage (2), Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Archer",
+        "id": "d1d2-12c4-5962-3112",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "Halfling", "id": "004b-ed11-6236-75f2", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+          {"name": "Units", "id": "4b26-9808-9d53-d60c", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "93d3-9aaf-a77f-ed63",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 9}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "d1a5-d20b-17df-daed",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "c48f-992c-9c41-cae8",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "1eb9-01cd-25d3-9572",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 9}],
+            "infoLinks": [
+              {"name": "Courage (X)", "id": "4c99-7764-ac66-271e", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Fire Over", "id": "0399-6078-05e8-e8a6", "hidden": false, "targetId": "e5e5-571b-0197-13b8", "type": "rule"},
+              {"name": "Halfling Bow", "id": "8c61-9a4d-0c58-485b", "hidden": false, "targetId": "0108-bdb7-dfde-6340", "type": "profile"}
+            ],
+            "profiles": [
+              {
+                "name": "Figures",
+                "id": "362f-c340-0760-524c",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "0", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "1", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Courage (2), Fire Over", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Border Scout",
+        "id": "5183-b74d-cc53-f015",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "Halfling", "id": "1de1-5b9d-c8ed-4eb3", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+          {"name": "Units", "id": "671e-1925-6433-9aba", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "1fd9-07ec-763b-c4c7",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 9}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "2b67-c447-b966-1d57",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Halfling", "id": "afd7-1707-0646-cad9", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+              {"name": "Units", "id": "011d-b5ef-bbf5-9d37", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "2c2e-f2eb-540d-5437",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "fcee-2bb5-15d4-3035",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 9}],
+            "infoLinks": [
+              {"name": "Courage (X)", "id": "f774-d0e1-f8d9-1f34", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Nimble", "id": "8704-4f13-2816-c27a", "hidden": false, "targetId": "14db-7b5c-2e3b-477f", "type": "rule"},
+              {"name": "Aimed Fire", "id": "352b-f385-177b-296f", "hidden": false, "targetId": "bddf-fe50-8bf3-c960", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Figures",
+                "id": "839f-9021-9b8f-9742",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "0", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "2", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Courage (2), Nimble, Aimed Fire", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Halfling Light Catapult",
+        "id": "4661-c1b9-3cc3-27e1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "cd9b-aa64-1e3e-d85c", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+          {"name": "Artillery", "id": "1aef-75ab-f464-6400", "hidden": false, "primary": true, "targetId": "1bf6-b9a5-9c3b-08b2"}
+        ],
+        "constraints": [
+          {
+            "id": "cf0e-7259-97d5-0361",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Artillery",
+            "id": "6738-7f52-29fc-dc52",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "259e-bdc5-15cd-1fb4",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "47c5-2d98-c272-e044",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 80}],
+            "infoLinks": [
+              {"name": "Light Catapult", "id": "881e-5c56-34c6-8064", "hidden": false, "targetId": "27e4-ab78-9a31-9c4d", "type": "profile"},
+              {"name": "Artillery", "id": "b587-e7b3-6494-8353", "hidden": false, "targetId": "fb1c-4a18-0425-e322", "type": "rule"},
+              {"name": "Crew (X)", "id": "ba45-91b9-2404-213d", "hidden": false, "targetId": "fdc2-63bc-906e-0d9b", "type": "rule"},
+              {"name": "Courage (X)", "id": "d74a-1ff0-87bb-7147", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+              {"name": "Indirect Fire", "id": "38d0-69f5-b925-1c36", "hidden": false, "targetId": "f48d-b532-ea17-421c", "type": "rule"},
+              {"name": "Shielding (X)", "id": "b333-c2e5-765c-c69e", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"}
+            ],
+            "profiles": [
+              {
+                "name": "Artillery",
+                "id": "03df-96ff-4d8c-5dff",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "3", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "3", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "9", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Artillery, Crew (3), Courage (2), Indirect Fire, Shielding (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "50x100", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hound",
+        "id": "5bdc-a10e-27a4-c792",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "4b2f-04c2-847c-9c77", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+          {"name": "Units", "id": "ca38-6d32-8514-384c", "hidden": false, "primary": true, "targetId": "97af-b0fb-4cef-d818"}
+        ],
+        "constraints": [
+          {
+            "id": "7b88-fb58-4cb6-7c5e",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "selectionEntries": [
+          {
+            "name": "Figures",
+            "id": "ede1-fb1f-ab6c-1694",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Halfling", "id": "991d-f994-6891-a228", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"},
+              {"name": "Units", "id": "f850-f4b0-ecfe-9b5f", "hidden": false, "primary": false, "targetId": "97af-b0fb-4cef-d818"}
+            ],
+            "constraints": [
+              {
+                "id": "2c62-3276-a275-88d9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 20
+              },
+              {
+                "id": "756d-9b5e-d2f9-02a9",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 12}],
+            "infoLinks": [{"name": "Charge (X)", "id": "942d-9ed9-bed8-372e", "hidden": false, "targetId": "48c7-57de-be8d-f43a", "type": "rule"}],
+            "profiles": [
+              {
+                "name": "Hound",
+                "id": "c5e8-961d-6307-f722",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "8", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "1", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "1", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Courage (1)", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25x25", "typeId": "0586-fb8d-d71a-b86c"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hafling Spellcaster",
+        "id": "e788-6778-4491-e0f6",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "unit",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "f21a-4056-312b-c52f", "hidden": false, "primary": true, "targetId": "c6d5-f5ff-c931-3f8d"},
+          {"name": "Halfling", "id": "1221-ca9c-4075-0730", "hidden": false, "primary": false, "targetId": "42bf-812a-6e4c-31e6"}
+        ],
+        "constraints": [
+          {
+            "id": "8d26-dcdc-8c9c-1dcc",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 4
+          }
+        ],
+        "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 0}],
+        "entryLinks": [
+          {
+            "name": "Spell Level",
+            "id": "5ae5-b082-bdd1-293e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "0815-6515-7fe0-65b3",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Spells",
+            "id": "7947-c780-0503-fa59",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "5f76-a51d-f38e-80fb",
+            "type": "selectionEntryGroup"
+          },
+          {
+            "name": "Magic Items",
+            "id": "d1ae-f069-eed9-ef6a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "17ea-6571-7037-998a",
+            "type": "selectionEntryGroup"
+          }
+        ],
+        "infoLinks": [
+          {"name": "Spellcaster (X)", "id": "4a41-fc45-69d7-fd50", "hidden": false, "targetId": "094a-9b2e-6a63-2714", "type": "rule"},
+          {"name": "Shielding (X)", "id": "80df-b8f1-3510-8d61", "hidden": false, "targetId": "b44e-1c0f-abcd-a7ba", "type": "rule"},
+          {"name": "Courage (X)", "id": "1b1f-6f04-5a49-b8aa", "hidden": false, "targetId": "b71b-3db4-43a2-e22f", "type": "rule"},
+          {"name": "Fire Over", "id": "4502-2aba-1910-56a8", "hidden": false, "targetId": "e5e5-571b-0197-13b8", "type": "rule"},
+          {"name": "Magic Items", "id": "3383-3c17-28dd-81cc", "hidden": false, "targetId": "bd42-43d7-05ef-1eb5", "type": "rule"}
+        ],
+        "selectionEntries": [
+          {
+            "name": "Character",
+            "id": "88e5-bcc4-f86d-e284",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "model",
+            "constraints": [
+              {
+                "id": "e735-93ae-8158-b5b1",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              },
+              {
+                "id": "4e19-923a-c3d2-5581",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "min",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 35}],
+            "modifiers": [
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 70,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 144,
+                "conditions": [
+                  {
+                    "childId": "b824-1deb-0891-cef0",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "profiles": [
+              {
+                "name": "Hafling  Spellcaster (Level 1)",
+                "id": "d2e5-0e38-b5df-58ba",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "2", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (1), Shielding (1), Courage (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "66d0-bce5-3b98-915c",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "e788-6778-4491-e0f6",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 10},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "66d0-bce5-3b98-915c",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "e788-6778-4491-e0f6",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Hafling Spellcaster (Level 2)",
+                "id": "c814-7497-8cb7-fea6",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "2", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (2), Shielding (1), Courage (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "b824-1deb-0891-cef0",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "e788-6778-4491-e0f6",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 10},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "f149-d990-d399-a09d",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "e788-6778-4491-e0f6",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Hafling Spellcaster (Level 3)",
+                "id": "b813-84d2-ee35-dbc6",
+                "hidden": false,
+                "typeId": "7e46-13ea-bb70-9f02",
+                "typeName": "Figure",
+                "characteristics": [
+                  {"name": "A", "$text": "6", "typeId": "9c61-a2fa-7712-0ce9"},
+                  {"name": "M", "$text": "5", "typeId": "907f-2ef5-68f7-ef8e"},
+                  {"name": "F", "$text": "1", "typeId": "f43f-b98a-b1e7-29ee"},
+                  {"name": "S", "$text": "0", "typeId": "6b0c-a9f4-5f79-acfe"},
+                  {"name": "D", "$text": "8", "typeId": "1545-76fb-51f2-e66e"},
+                  {"name": "CD", "$text": "3", "typeId": "149d-d960-26fc-7094"},
+                  {"name": "H", "$text": "2", "typeId": "e126-d958-ed2a-df0b"},
+                  {"name": "Special", "$text": "Spellcaster (3), Shielding (2), Courage (2), Fire Over, Magic Items", "typeId": "7d31-280f-897f-0915"},
+                  {"name": "Base", "$text": "25 x 25", "typeId": "0586-fb8d-d71a-b86c"}
+                ],
+                "modifierGroups": [
+                  {
+                    "conditions": [
+                      {
+                        "childId": "b824-1deb-0891-cef0",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "e788-6778-4491-e0f6",
+                        "shared": true,
+                        "type": "equalTo",
+                        "value": 1
+                      }
+                    ],
+                    "modifiers": [
+                      {"field": "907f-2ef5-68f7-ef8e", "type": "set", "value": 7},
+                      {"field": "1545-76fb-51f2-e66e", "type": "set", "value": 10},
+                      {"field": "0586-fb8d-d71a-b86c", "type": "set", "value": "25 x 50"}
+                    ]
+                  }
+                ],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [
+                      {
+                        "childId": "b824-1deb-0891-cef0",
+                        "field": "selections",
+                        "includeChildForces": false,
+                        "includeChildSelections": false,
+                        "percentValue": false,
+                        "scope": "e788-6778-4491-e0f6",
+                        "shared": true,
+                        "type": "notEqualTo",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pony Mount",
+            "id": "9845-8e0c-cb14-d39d",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "constraints": [
+              {
+                "id": "ea80-b03b-01d0-592e",
+                "field": "selections",
+                "includeChildForces": false,
+                "includeChildSelections": false,
+                "percentValue": false,
+                "scope": "parent",
+                "shared": true,
+                "type": "max",
+                "value": 1
+              }
+            ],
+            "costs": [{"name": " Points", "typeId": "8612-cb2b-a715-55c1", "value": 20}],
+            "modifiers": [
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 30,
+                "conditions": [
+                  {
+                    "childId": "b824-1deb-0891-cef0",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 20,
+                "conditions": [
+                  {
+                    "childId": "66d0-bce5-3b98-915c",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "field": "8612-cb2b-a715-55c1",
+                "type": "set",
+                "value": 30,
+                "conditions": [
+                  {
+                    "childId": "f149-d990-d399-a09d",
+                    "field": "selections",
+                    "includeChildForces": false,
+                    "includeChildSelections": false,
+                    "percentValue": false,
+                    "scope": "parent",
+                    "shared": true,
+                    "type": "equalTo",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "profiles": [
+              {
+                "name": "Pony Mount (Spellcaster)",
+                "id": "080e-8362-3b76-991b",
+                "hidden": false,
+                "typeId": "e969-071d-7763-170e",
+                "typeName": "Special Rule",
+                "characteristics": [{"name": "Description", "$text": "Pony Mount Level 1 +20pts, Level 2–3 +30pts, change stats to M7, D10, Base 25 x 50.", "typeId": "36fc-b818-7170-f03b"}]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
